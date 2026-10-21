@@ -32,5 +32,7 @@ public class Operators2 {
         System.out.println(num%3==0 || num%9==0);
 
 
+
+
     }
 }
